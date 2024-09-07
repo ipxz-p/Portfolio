@@ -13,19 +13,19 @@ export const projects: Project[] = [
         techStacks: ["React.js", "Node.js", "MySQL", "Socket.io"]
     },
     {
-        header: "KMITinity",
+        header: "KMITinity"
         linkUrl: "https://github.com/ipxz-p/KMITinity",
         description: "Developed a community website with features for posting messages and images, allowing users to comment, like posts, and edit their profiles.",
         techStacks: ["React.js", "Node.js", "MongoDB"]
     },
     {
-        header: "English-vocap",
+        header: "English-vocab",
         linkUrl: "https://github.com/ipxz-p/English-vocap",
         description: "Developed a website to assist in English language learning, featuring three main systems: creating vocabulary sets to store words and their translations, flashcards, and selecting translations from user-created or publicly available vocabulary sets.",
         techStacks: ["Vue.js", "Node.js", "MySQL"]
     },
     {
-        header: "NovelApplication",
+        header: "Novel-Application",
         linkUrl: "https://github.com/ipxz-p/NovelApplication",
         description: "Developed a service for managing novels, including handling individual chapters and authentication.",
         techStacks: ["react-native", "Node.js", "MongoDB"]
