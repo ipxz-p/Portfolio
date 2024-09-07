@@ -13,7 +13,7 @@ export const projects: Project[] = [
         techStacks: ["React.js", "Node.js", "MySQL", "Socket.io"]
     },
     {
-        header: "KMITinity"
+        header: "KMITinity",
         linkUrl: "https://github.com/ipxz-p/KMITinity",
         description: "Developed a community website with features for posting messages and images, allowing users to comment, like posts, and edit their profiles.",
         techStacks: ["React.js", "Node.js", "MongoDB"]
