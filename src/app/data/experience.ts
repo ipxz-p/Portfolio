@@ -9,7 +9,7 @@ interface Experience {
 export const experiences: Experience[] = [
     {
         header: "CDG Systems (Intern)",
-        date: "July 2024 - November 2024",
+        date: "July 2024 - Present",
         linkUrl: "https://www.cdgs.co.th/",
         description: "Developed web applications based on program specifications. Generated reports using i-net Clear Reports. Created automated tests with Cypress. Assisted and mentored fellow interns.",
         techStacks: ["Angular", "Typescript", "Java", "Cypress", "i-net Clear Reports"]
